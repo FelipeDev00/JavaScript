@@ -1,1 +1,1 @@
-# Projects-JS
+# Estudos e projetos utilizando JavaScript.
